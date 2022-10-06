@@ -5,7 +5,10 @@
   margin: 0;
   padding: 0;
 }
-
+body {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
 nav {
   width: 100vw;
   height: 3rem;
